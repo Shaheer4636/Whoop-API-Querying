@@ -29,4 +29,4 @@
 ## Additional Notes
 
 - Make sure you have Python installed before running the commands.
-![Results](https://raw.githubusercontent.com/Shaheer4636/Whoop-API-Querying/main/results/image-name.jpg)
+![Results](https://raw.githubusercontent.com/Shaheer4636/Whoop-API-Querying/main/results/image-name.jpeg)
